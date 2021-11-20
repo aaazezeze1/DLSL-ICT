@@ -1,8 +1,6 @@
 # Note: this is just some SAMPLE CODE DEMONSTRATING WHY I USED and ON MY FLOWCHART
 # and = returns True if both statements are true
 # https://www.w3schools.com/python/trypython.asp?filename=demo_oper_logical2
-# I just got vaccinated (first dose last saturday) and they'll keep checking your temp
-# until your temp is normal (in my city)
 
 if __name__ == "__main__":
     temp = input()
@@ -20,8 +18,8 @@ if __name__ == "__main__":
         print("Not Normal")
 
 # Example output
-# 36 
+# 36
 # Normal Temperature
 
-# 38.1 
+# 38.1
 # Not Normal
